@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayte.Utility.Value.API", "src\api\Ayte.Utility.Value.API\Ayte.Utility.Value.API.csproj", "{D15A7413-AA39-46E8-B3AC-BBA638773AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayte.Utility.Value.Kit", "src\kit\Ayte.Utility.Value.Kit\Ayte.Utility.Value.Kit.csproj", "{3899070D-1E5F-411E-99D4-C68CD921551E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15A7413-AA39-46E8-B3AC-BBA638773AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15A7413-AA39-46E8-B3AC-BBA638773AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15A7413-AA39-46E8-B3AC-BBA638773AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15A7413-AA39-46E8-B3AC-BBA638773AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3899070D-1E5F-411E-99D4-C68CD921551E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3899070D-1E5F-411E-99D4-C68CD921551E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3899070D-1E5F-411E-99D4-C68CD921551E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3899070D-1E5F-411E-99D4-C68CD921551E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
